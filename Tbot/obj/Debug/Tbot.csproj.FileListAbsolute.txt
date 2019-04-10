@@ -25,3 +25,16 @@ G:\NET\Tbot\Tbot\obj\Debug\Tbot.csprojResolveAssemblyReference.cache
 G:\NET\Tbot\Tbot\obj\Debug\Tbot.Form1.resources
 G:\NET\Tbot\Tbot\obj\Debug\Tbot.Properties.Resources.resources
 G:\NET\Tbot\Tbot\obj\Debug\Tbot.csproj.GenerateResource.Cache
+G:\NET\TBotNet\Tbot\bin\Debug\Tbot.exe.config
+G:\NET\TBotNet\Tbot\obj\Debug\Tbot.exe
+G:\NET\TBotNet\Tbot\obj\Debug\Tbot.pdb
+G:\NET\TBotNet\Tbot\bin\Debug\Tbot.exe
+G:\NET\TBotNet\Tbot\bin\Debug\Tbot.pdb
+G:\NET\TBotNet\Tbot\bin\Debug\Newtonsoft.Json.dll
+G:\NET\TBotNet\Tbot\bin\Debug\Telegram.Bot.dll
+G:\NET\TBotNet\Tbot\bin\Debug\Newtonsoft.Json.xml
+G:\NET\TBotNet\Tbot\bin\Debug\Telegram.Bot.xml
+G:\NET\TBotNet\Tbot\obj\Debug\Tbot.csprojResolveAssemblyReference.cache
+G:\NET\TBotNet\Tbot\obj\Debug\Tbot.Form1.resources
+G:\NET\TBotNet\Tbot\obj\Debug\Tbot.Properties.Resources.resources
+G:\NET\TBotNet\Tbot\obj\Debug\Tbot.csproj.GenerateResource.Cache

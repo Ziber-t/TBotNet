@@ -99,8 +99,12 @@ namespace Tbot
                                         replyToMessageId: message.MessageId);
                                     break;
                                 case "/kat":
-                                    await Bot.SendTextMessageAsync(message.Chat.Id, "Катя супер СЕНЬЕРИТА! А PHP говно!)",
+                                    await Bot.SendTextMessageAsync(message.Chat.Id, "Катя пошла по шляпам!)",
                                         replyToMessageId: message.MessageId);
+                                    break;
+                                case "/getIP":
+                                    string pubIp = new System.Net.WebClient().DownloadString("https://api.ipify.org");
+                                    await Bot.SendTextMessageAsync(message.Chat.Id,pubIp,replyToMessageId:message.MessageId);
                                     break;
                                 default:
                                     //await Bot.SendTextMessageAsync(message.Chat.Id, "Что то пошло не так...",
